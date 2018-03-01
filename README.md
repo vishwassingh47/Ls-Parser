@@ -74,4 +74,7 @@ Following is the step by Tutorial:
     
   
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0129b16bea81b3ffb65691c72bf003a7d67ff70a
